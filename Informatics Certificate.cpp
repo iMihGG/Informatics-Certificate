@@ -7,7 +7,7 @@ using namespace std;
 int viteza1, viteza2;
 
 int x1 = 20, x2 = 100, x3 = 20,x4 = 100,x5 = 40, x6= 80,x7 = 20, x8 = 100;
-int x9 = 20,x10 = 100,x11 = 40,x12 = 80,x13 = 50,x14 = 130,x15 = 55,x16 = 55;
+int x9 = 20, x10 = 100, x11 = 40, x12 = 80, x13 = 50, x14 = 130, x15 = 55, x16 = 55;
 
 void INTRODUCERE()
 {
