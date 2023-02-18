@@ -1,0 +1,15 @@
+Informatics certficate
+Time for implementation - 6 hours
+-------------------------------------------------------------------------------
+    This application was made in order to obtain my certificate in Informatics
+and contains a landscape drawing, a car race and a snake game, most of them
+implemented using graphic libraries from C++.
+    The programme runs as an interactive application, with user input, using
+both the graphic windowd and the command line in order to let the user input
+the desired instructions. The application starts with a drawing of a landscape
+if the user wishes so, then he has to make a decision: either he plays Snake
+or watches a car race.
+    Both the lanscape and the car race are implemented using elementary graphic
+mode functions and the Snake game was done with the standard librabry of C++.
+The Snake game has 4 functions which determine the logic of the game, as well
+as the drawing required in order for the user to visualize the moving snake.
